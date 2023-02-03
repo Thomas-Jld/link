@@ -1,0 +1,11 @@
+{
+    "uid": "",
+    "hotspot": {
+        "ssid": "LinkEsp",
+        "password": "config101"
+    },
+    "wifi": {
+        "ssid": "",
+        "password": ""
+    }
+}
